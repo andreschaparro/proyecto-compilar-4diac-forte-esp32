@@ -14,6 +14,8 @@
 - [ShellCheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck).
 - [shellman](https://marketplace.visualstudio.com/items?itemName=Remisa.shellman).
 - [ESP-IDF](https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-extension).
+- [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools).
+- [CMake Language Support](https://marketplace.visualstudio.com/items?itemName=josetr.cmake-language-support-vscode).
 
 ## Hojas de ayuda
 
