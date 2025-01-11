@@ -1,4 +1,4 @@
-# Proyecto: Compilar 4diac FORTE para el microcontrolador ESP32
+# Proyecto: Compilar 4diac FORTE para el SOC ESP32
 
 ## Software a instalar
 
